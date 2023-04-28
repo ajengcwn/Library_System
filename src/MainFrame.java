@@ -59,10 +59,10 @@ public class MainFrame extends FrameTemplate implements ActionListener
     {
         if(count == 0)
         {
-            books.pushMid(23, new Book("Ajeng", 23, 3));
-            books.pushMid(23, new Book("Alen", 23, 5));
-            books.pushMid(43, new Book("Mirzha", 43, 1));
-            books.pushMid(34, new Book("Yoh", 34, 7));
+            books.pushMid(23, new Book("The Chronicles of Narnia", 23, 3));
+            books.pushMid(23, new Book("Twenty Four Eyes", 23, 5));
+            books.pushMid(43, new Book("Maria Beetle", 43, 1));
+            books.pushMid(34, new Book("YoungAdult: Ten Years Challenge", 34, 7));
             count++;
             shelves = books.getKeys();
         }
