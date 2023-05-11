@@ -9,3 +9,10 @@ Aplikasi ini terdiri dari 5 frame,
 3. Borrow Frame
 4. Return Frame
 5. View Data Frame
+
+Untuk Login, berikut daftar NIM dan Nama default untuk mengakses aplikasi.
+1. NIM  : 123456
+   Nama : user1
+2. NIM  : 678910
+   Nama : user2
+ 
